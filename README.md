@@ -158,15 +158,8 @@ We welcome contributions! Please follow these steps:
 - **Memory Usage**: ~200MB with full dataset
 - **Model Accuracy**: R² > 0.85 on test data
 
-## 🔒 Security
-
-- Input validation on all API endpoints
-- CORS protection enabled
-- No sensitive data stored in frontend
-- Rate limiting recommended for production
-
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Devadharshini K**
 
 *Star ⭐ this repository if you find it useful!*
