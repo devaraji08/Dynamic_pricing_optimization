@@ -2,7 +2,7 @@
 
 A full-stack machine learning application for real-time product pricing optimization. Built with Flask, scikit-learn, and modern web technologies.
 
-![Dynamic Pricing Engine Dashboard](https://img.shields.io/badge/Status-Active-brightgreen) ![Python](https://img.shields.io/badge/Python-3.7+-blue) ![Flask](https://img.shields.io/badge/Flask-2.0+-red) ![ML](https://img.shields.io/badge/ML-scikit--learn-orange)
+![Dynamic Pricing Engine Dashboard](https://img.shields.io/badge/Status-Active-brightgreen) ![Python](https://img.shields.io/badge/Python-3.7+-blue) ![ML](https://img.shields.io/badge/ML-scikit--learn-orange)
 
 ## 📋 Features
 
