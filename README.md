@@ -134,7 +134,7 @@ We welcome contributions! Please follow these steps:
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/dynamic-pricing-engine/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/dynamic-pricing-engine/discussions)
-- **Email**: your.email@example.com
+- **Email**: devadharshinikrishnakumar2004.email@example.com
 
 ## 🗺️ Roadmap
 
