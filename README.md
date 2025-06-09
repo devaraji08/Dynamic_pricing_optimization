@@ -18,12 +18,6 @@ A full-stack machine learning application for real-time product pricing optimiza
 - **Revenue Analytics**: Category-wise revenue breakdown with interactive charts
 - **Batch Processing**: Optimize prices for all products simultaneously
 
-### 🔧 Technical Features
-- **RESTful API**: Clean API endpoints for all pricing operations
-- **WebSocket Support**: Real-time updates using Flask-SocketIO
-- **Responsive Design**: Mobile-friendly dashboard with modern UI
-- **Error Handling**: Comprehensive error handling and user feedback
-
 ## 🛠️ Installation
 
 ### Prerequisites
@@ -41,7 +35,7 @@ A full-stack machine learning application for real-time product pricing optimiza
 
 2. **Install dependencies**
    ```bash
-   pip install -r requirements.txt
+   pip install -r Dependensies.txt
    ```
    
    Or let the script auto-install:
